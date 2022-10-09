@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephen K. Davis</h1>
 <h3 align="center">A passionate software engineer from Canada</h3>
 
-<p align="left"> <a href="https://twitter.com/stephendavisio" target="blank"><img src="https://img.shields.io/twitter/follow/stephendavisio?logo=twitter&style=for-the-badge" alt="stephendavisio" /></a> </p>
+<p align="center"> <a href="https://twitter.com/stephendavisio" target="blank"><img src="https://img.shields.io/twitter/follow/stephendavisio?logo=twitter&style=for-the-badge" alt="stephendavisio" /></a> </p>
 
 - 🌱 I’m currently learning **Golang and .NET MAUI.**
 
