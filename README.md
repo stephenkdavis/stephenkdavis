@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stephen K. Davis</h1>
 <h3 align="center">A passionate software engineer from Canada</h3>
 
-<p align="center"> <a href="https://twitter.com/stephendavisio" target="blank"><img src="https://img.shields.io/twitter/follow/stephendavisio?logo=twitter&style=for-the-badge" alt="stephendavisio" /></a> </p>
-
 - 🌱 I’m currently learning **Golang and .NET MAUI.**
 
 - 💬 Ask me about **C# and .NET**
@@ -12,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/stephenkdavis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stephenkdavis" height="30" width="40" /></a>
-<a href="https://twitter.com/stephendavisio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stephendavisio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/stephenkyledavis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephenkyledavis" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16971733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16971733" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCR63QsWPmDQIscwiUMTWhtg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucr63qswpmdqiscwiumtwhtg" height="30" width="40" /></a>
