@@ -5,15 +5,17 @@
 
 - 💬 Ask me about **C#, .NET and Microsoft SQL Server**
 
-- 📫 How to reach me **stephenkdavis@outlook.com**
+- 📧 How to reach me **stephenkdavis@outlook.com**
+
+- 💻 View my website [https://stephendavis.io/](https://stephendavis.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.youtube.com/@StephenDavisIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@StephenDavisIO" height="30" width="40" /></a>
+<a href="https://instagram.com/StephenDavisIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="StephenDavisIO" height="30" width="40" /></a>
 <a href="https://twitter.com/StephenDavisIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="StephenDavisIO" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/StephenDavisIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="StephenDavisIO" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16971733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16971733" height="30" width="40" /></a>
-<a href="https://instagram.com/StephenDavisIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="StephenDavisIO" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@StephenDavisIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@StephenDavisIO" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/stephenkdavis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stephenkdavis" height="30" width="40" /></a>
 </p>
 
