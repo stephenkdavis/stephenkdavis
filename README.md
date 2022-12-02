@@ -7,7 +7,7 @@
 
 - 📧 How to reach me **stephenkdavis@outlook.com**
 
-- 💻 View my website [https://stephendavis.io/](https://stephendavis.io/)
+- 💻 View my website **[https://stephendavis.io/](https://stephendavis.io/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
