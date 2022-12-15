@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C#, .NET and Microsoft SQL Server**
 
-- 📧 How to reach me **stephenkdavis@outlook.com**
+- 📧 How to reach me **stephen.davis@comoxa.net**
 
 - 💻 View my website **[https://stephendavis.io/](https://stephendavis.io/)**
 
